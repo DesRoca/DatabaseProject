@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Destiny Roca
-- 👀 I’m interested in Video Games 
-- 🌱 I’m currently learning programming
-- 📫 How to reach me desy2000@outlook.com
+Database - Fall 2021
+
+Languages - mySQl, PHP, HTML, CSS
+
+By using our previous skills on HTML, we were taught more on the backend part of web programming. We used our terminal to sign into our eve accounts we were able to grant ourselves the permissions required to edit, add, remove, and other options for tables to hold information. Once we got comfortable with all the SQL commands, we were able to finally incorporate what we learned and use it with a simple website. 
 
 <!---
 DesRoca/DesRoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
